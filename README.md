@@ -36,9 +36,21 @@ JavaScript
 ### Contributions are welcome! Please follow these steps:
 
 #### Fork the repository.
-Create a new branch (git checkout -b feature/your-feature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/your-feature).
+Create a new branch
+```bash
+git checkout -b feature/your-feature
+```
+
+Commit your changes 
+```bash
+git commit -m 'Add some feature'
+```
+
+Push to the branch 
+```bash
+git push origin feature/your-feature
+```
+
 Open a pull request.
 
 ## License
